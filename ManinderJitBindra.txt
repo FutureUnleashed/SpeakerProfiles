@@ -1,0 +1,3 @@
+Maninderjit Bindra (Mani) is an Architect who has designed and implemented several high volume, business critical applications and APIs using open source software.
+He has experience across diverse technology areas including, open source and Microsoft technologies
+He is a certified mongodb DBA, Microsoft Azure Specialist, MCP and SJP
