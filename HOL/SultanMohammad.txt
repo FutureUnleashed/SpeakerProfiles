@@ -1,0 +1,1 @@
+Sultan is a System Center SME working with Microsoft for over 5 years, specialized in SCOM , SCCM and Windows Deployment. He provides real world guidance for product and solutions like Microsoft Deployment Toolkit (MDT), Windows Deployment Services (WDS), WinPE, USMT and System Center Configuration Manager (SCCM / ConfigMgr) to Microsoft premier customers.
