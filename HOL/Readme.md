@@ -1,4 +1,7 @@
-### 1. Yashkumar Tolia
+These are the speakers for the HOL Track in Future Unleashed. The profiles for some of them are missing, and will be updated as they arrive. Each of them have also been added in separate files in the prescribed format: SpeakerName.txt and SpeakerName.jpg.
+
+### 1. Yashkumar Tolia :
+Awaiting profile.
 ### Sultan Mohammad :
 Sultan, is a System Center SME working with Microsoft for over 5 years, specialized in SCOM , SCCM and Windows Deployment. Provided real world guidance for product and solutions like Microsoft Deployment Toolkit (MDT), Windows Deployment Services (WDS), WinPE, USMT and System Center Configuration Manager (SCCM / ConfigMgr) Microsoft premier customers.
 
@@ -14,8 +17,10 @@ He is a Program Freak who loves coding and is currently working as a Consultant 
 ### 4. Sameeksha Khare: 
 Sameeksha Khare is passionate about developing and nurturing developer ecosystem. She is a technology evangelist in developer experience team with Microsoft India. She drives adaption of Microsoft products and technologies at a very grassroots level. Previously she has worked with various customers, partners and designers to bring India’s top consumer and commercial apps on Windows 8.x and Windows Phone 8.x platform. Currently she is focusing on productivity platform - Office 365 and the new browser – Microsoft Edge. She holds a certification in Developing Azure solution and a bachelor’s of engineering in computers. 
 ### Shubham Kumar Chaudhary
+Awaiting profile
 
 ### 5. Richard Spitz
+Awaiting profile
 
 ### 6. Durai Murugan:
 Works as a Senior PFE (Premier Field Engineer). Been in the industry for about a decade and with Microsoft for the last 8+ years. Predominantly works on Database and helping customers on Database related solutions. In his current role as a SQL Server specialist he visits Microsoft Customer’s premises, works along with them in building, supporting their solutions and businesses, help them realize the values of Microsoft services.
