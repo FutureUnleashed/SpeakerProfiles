@@ -1,0 +1,4 @@
+Name: Tulika Chaudharie
+Current role: Escalation Engineer –Developer
+Years in Microsoft: 10+ years
+Professional Experience: Tulika has 15+ years of industry experience. She has worked extensively on most of Microsoft web technologies like IIS, ASP and ASP.Net. Currently she is working with the Azure Web Application Service team, helping customers bring their web workloads to the Microsoft cloud platform. She regularly partners with the Product Engineering teams for testing and bringing improvements into the product. She has been a technical speakers at various Microsoft conferences like TechReady, TechEd, MVP Global Summit as well as community sessions for cloud and .Net.
