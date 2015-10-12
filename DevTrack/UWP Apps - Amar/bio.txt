@@ -1,0 +1,13 @@
+Amar Nityananda
+
+Amar works as User Experience Consultant at Microsoft. He works with Microsoft Customers to design and develop great user experiences for their apps and technical solutions. He earlier worked with Microsoft partners to help them adopt and implement solutions using latest Microsoft Technologies. He is very passionate about various development technologies like the Windows Universal Platform, WPF, ASP.NET MVC, Blend and absolutely loves XAML.
+
+He enjoys speaking at various forums like Developer Conferences, User Groups, Online Webcasts, College seminars and pretty much anywhere, if someone is willing to listen!
+
+Ankur Bajoria
+Ankur works primarily as a Dynamics CRM Consultant in Microsoft. He works with Microsoft Customers in delivering Microsoft Dynamics solutions. He has 3.5 years of experience. He is very enthusiastic about development technologies like Windows Universal Platform, Windows Azure, WPF, ASP.NET MVC, Dynamics CRM, Window Phone Development, JavaScript.
+
+Mohammad Arsalan
+
+Arsalan works as Dynamics CRM Consultant at Microsoft. He has total 3.8 years of experience. His areas of expertise are .NET, C#, CRM, Windows Store Apps, Azure, JavaScript.
+
