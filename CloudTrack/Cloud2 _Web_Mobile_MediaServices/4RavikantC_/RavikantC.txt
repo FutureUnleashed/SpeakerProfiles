@@ -1,3 +1,0 @@
-Topic: Authoring Azure Resource Manager Templates
-
-Speaker Profile: 

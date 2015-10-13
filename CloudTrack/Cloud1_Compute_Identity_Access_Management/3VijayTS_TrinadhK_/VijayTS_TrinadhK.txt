@@ -1,2 +1,0 @@
-Topic: Hybrid cloud backup: Backing up applications born in the Azure: Deep Dive on IaaS VM Backup 
-Speaker Profile:

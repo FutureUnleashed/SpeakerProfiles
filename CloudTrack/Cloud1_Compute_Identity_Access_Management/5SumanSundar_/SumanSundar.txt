@@ -1,2 +1,8 @@
 Topic: Cognitive: Fast Lane to Digital Disruption
+
 Speaker Profile:
+Suman Sundar is a Senior Architect in Accenture | Avanade and presently heads the Microsoft Data and Analytics practice under Digital unit in India. He has over 14 years of experience in Data Warehouse, Business Intelligence, Big data, Advanced Analytics and Data Visualization. He is responsible for series of capability development activities including technology adoption, evangelization, building customer focused offerings, developing innovative solutions, etc., using Microsoft Analytics suite of products. He is passionate about working in emerging technologies like Data science, IoT, Cloud computing and Mobility. He is part of Microsoft Data Platform Advisors and Office Pre-release partner communities where he provides continuous feedback from testing beta products.
+
+Speaker email address: suman.sundar@accenture.com 
+Twitter profile: @sorpion7
+
