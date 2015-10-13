@@ -1,0 +1,4 @@
+As a Technology Evangelist at Microsoft, Saurabh Kirtani enjoys getting developers get on-board with various technologies. He has worked majorly on web development (JavaScript, HTML/CSS3, RWD, MVC), IoT-based solutions, Azure and also on game development by Unity. He has been an active speaker at various developer camps, and conferences such as JSFoo, TechEd, PyCon, Azure Conference, etc. Other than technology, he likes to travel, follow cricket, watch comedy/suspense TV shows, and spend his time on Quora!
+
+He can be reached on Twitter at @saurabhkirtani.
+

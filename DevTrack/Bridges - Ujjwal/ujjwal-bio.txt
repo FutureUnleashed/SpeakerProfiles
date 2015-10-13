@@ -1,0 +1,3 @@
+Ujjwal Kumar is a Senior Technical Evangelist for Windows, Azure and IoT platforms in Microsoft's Developer Experience & Evangelism (DX) group. He focusses on architecture, design for Azure based cloud solutions, apps and game development.
+Prior to this he worked as Partner Consultant and development platforms Worldwide Specialization Lead at Microsoft. He has 12.5 years of industry experience and he has been with Microsoft for 9+ years. In the past he has extensively worked on C++, C#, Microsoft Azure, Windows Internals, Robotics Studio, Games and Apps development.
+
