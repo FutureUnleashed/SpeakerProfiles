@@ -1,0 +1,2 @@
+Topic:Orchestrate your functional blocks using Azure Logic & API Apps
+Speaker Profile:

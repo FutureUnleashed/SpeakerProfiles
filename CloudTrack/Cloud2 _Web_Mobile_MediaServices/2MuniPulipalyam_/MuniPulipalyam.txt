@@ -1,0 +1,3 @@
+Topic: Integration in Cloud- Windows Azure BizTalk Services best practices and challenges- Notes from the field 
+
+Speaker Profile:

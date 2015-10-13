@@ -1,0 +1,2 @@
+Anoop KV is a Senior Program Manager for Azure Site Recovery  @ Microsoft. He currently owns the Protection to Azure scenarios for Hyper-V focusing on the small and medium businesses and the overall Setup and Registration experiences for all flavors of Azure Site Recovery.  A Microsoft long-timer with over 10 years of experience Anoop has worked on  SQL Server, Windows Hyper-V and Hyper-V Replica technologies and Azure Site Recovery Teams.
+Anoop has a B. TECH degree in Computer Science and Engineering from Calicut University and is passionate about photography and reading.
