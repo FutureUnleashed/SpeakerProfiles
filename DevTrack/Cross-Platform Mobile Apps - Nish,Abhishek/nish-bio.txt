@@ -1,0 +1,4 @@
+Speaker Name: Nish Anil
+Speaker Designation: Developer Evangelist, Xamarin
+ 
+Profile: Nish is a C# fanatic and has been writing softwares for web & windows platforms for almost a decade now. He is Xamarin's first Developer Evangelist for India and a Microsoft MVP in Visual C#. He works out of Bangalore, India and is passionate about spreading C# & Xamarin love by helping developers build 100% native mobile applications for iOS, Android, Windows Phone & Windows Store Apps.
