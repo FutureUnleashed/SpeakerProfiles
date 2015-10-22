@@ -1,2 +1,5 @@
 Topic:Orchestrate your functional blocks using Azure Logic & API Apps
+
 Speaker Profile:
+Sandeep Alur has over 16 years of industry experience providing technology and architectural guidance to Enterprise customers. His experience ranges from dotcom days to the next generation distributed and cloud computing technology era. He has architected solutions across the Microsoft Technology Suite and is a stern believer of his own philosophy, which says “Enterprise architecture is an evolution and it grows with innovation”.  At Microsoft, he leads the Technical Evangelism Charter for India, and works with the Start-up & ISV ecosystem to provide them a platform to build solutions on the Windows & Cloud Platform. With the current decade dominated by explosion of devices and services, he considers ‘Cloud platform’ to be a great host for businesses to scale.
+You can follow him on twitter @saalur.

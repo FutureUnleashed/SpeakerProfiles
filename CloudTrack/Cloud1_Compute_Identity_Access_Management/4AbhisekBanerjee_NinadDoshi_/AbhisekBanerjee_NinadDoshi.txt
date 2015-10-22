@@ -1,2 +1,11 @@
 Topic: Azure Active Directory and Mobility
-Speaker Profile:
+
+Speaker Profiles:
+
+Abhisek is a Solution Architect at the Microsoft Technology Center, Bangalore. He works with customers, partners and startups to understand their business goals and complex requirements, and provides technology and architectural guidance that impacts the strategic directions and decisions for their enterprise. Over the years, he has architected enterprise solutions on different Microsoft technologies across product development organizations and services organizations. He currently focuses on how enterprises can leverage the Microsoft cloud platform to address their business priorities.
+Abhisek holds an MBA from IIM Bangalore and loves to dwell on the intriguing world of the financial markets as a hobby.
+
+
+Ninad has experience with stints in Consulting, Service Delivery, Technical Support and Presales. He has designed and built datacenter automation and service management components for IaaS/SaaS Private cloud solutions as well as architected Mobility solutions for customers across the globe. He currently works as a Solution Architect at the Microsoft Technology Center in Bangalore building custom solutions based on Enterprise Mobility, System Center, Hybrid Cloud and Azure IaaS.
+
+

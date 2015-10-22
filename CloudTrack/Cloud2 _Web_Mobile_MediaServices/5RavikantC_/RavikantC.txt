@@ -1,0 +1,4 @@
+Topic: Authoring Azure Resource Manager Templates 
+
+Speaker Profile:
+Ravikanth is a principal engineer and the lead architect for Microsoft UC&C, Microsoft and VMware private and hybrid cloud solutions within the Enterprise Solutions Group at Dell Inc. He is a multi-year recipient of Microsoft Most Valuable Professional (MVP) award in Windows PowerShell. Ravikanth is the author of Windows PowerShell Desired State Configuration Revealed (Apress) and leads Bangalore PowerShell and Bangalore IT Pro user groups. He can be seen speaking regularly yet local user group events and conferences in India and abroad.

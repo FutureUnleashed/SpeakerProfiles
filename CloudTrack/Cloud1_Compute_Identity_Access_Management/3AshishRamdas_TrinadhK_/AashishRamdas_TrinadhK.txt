@@ -1,0 +1,7 @@
+Topic: Hybrid cloud backup: Backing up applications born in the Azure: Deep Dive on IaaS VM Backup 
+
+Speaker Profiles:
+
+Trinadh is a Program Manager in Azure backup team with primary focus on cloud born assets. He has over 5 years of work experience spanning various phases of SDLC across industries such as algorithmic trading, computer networking and predictive analytics. At Microsoft, he is responsible for backup of IaaS virtual machines and is an active participant in customer discussions and queries regarding Azure backup. He graduated from BITS Pilani with Masters in Information Systems, Bachelors in Civil Engineering and holds a management degree from IIM Bangalore in marketing and technology. 
+
+Aashish Ramdas is a Senior Program Manager in Azure backup team.

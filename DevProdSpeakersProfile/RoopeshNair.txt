@@ -1,0 +1,2 @@
+Roopesh Nair is a Principal Product Manager, DevOps evangelist at Microsoft, and has over 20+yrs of industry experience. He has delivered multiple projects and products across his career. His current role at Microsoft involves the strategy, design and implementation of continuous integration/continuous delivery features of Visual Studio for both on-Cloud and for on-premises deployments. He enjoys working with customers to drive adoption of DevOps best practices and passionately driving new features into the product.
+

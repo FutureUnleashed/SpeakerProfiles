@@ -1,2 +1,4 @@
 Topic: Azure Automation: from Zero to awesome in an hour
+
 Speaker Profile:
+“Ritesh Modi is an architect with Microsoft Services. He’s an expert on Azure, PowerShell, SharePoint, SQL Server Business Intelligence and System Center. He has spoken at multiple conferences including TechEd and Powershell Asia conference, does lots of internal training and blogs at automationnext.wordpress.com. He has also written for MSDN magazine. Reach him at rimodi@microsoft.com. He has more than a decade of experience building and deploying enterprise solutions.”

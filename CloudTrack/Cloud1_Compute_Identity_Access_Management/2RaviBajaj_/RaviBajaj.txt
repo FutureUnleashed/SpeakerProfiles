@@ -1,0 +1,14 @@
+Topic: Migrating from IAAS to PAAS
+
+Speaker Profile:
+Ravi heads the Product Engineering function at ZingHR. Ravi has over 22 years of rich experience in Microsoft Products and has worked with a wide range of products and technologies – VB, .Net, C#, SQL Server, Web 2.0, MVC, Azure. 
+
+He has hands on experience in Build 2 Run of SAAS Applications and Products - from Conceptualizing, Architecting, Development Strategies, Testing and Deployment. 
+
+He has been instrumental in leading ZingHR's Azure initiatives and has successfully migrated the company's flagship HRMS product in a phased manner to IAAS and now PAAS, thus helping reduce monthly infrastructure costs and increase scalability and performance. 
+
+Ravi has earlier been a Corporate Trainer and an IT Solutioning expert, having worked with MNC’s like Enron, British Gas and BITS. He used to run his own company CREST Computer Education, before joining hands with Prasad Rajappan, to co-found Cnergyis. Ravi is a Physics graduate.
+
+Speaker email address : ravi.bajaj@zinghr.com
+
+Twitter profile : (if available) : @ravibajaj1971
