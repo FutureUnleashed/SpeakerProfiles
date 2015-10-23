@@ -25,5 +25,6 @@ Shubham tweets at @Shubham_MSFT
 ### 5. Richard Spitz
 Richard has been in various roles with Microsoft over nine years, working on Windows Server and Client technologies and Azure. Specializing in Azure Infrastructure as a Service, PowerShell Scripting, Virtualization and Windows Internals, he has worked with and trained professionals at some of the largest enterprises in India. Providing a secure, stable and yet flexible platform for businesses to succeed is his passion. 
 
-### 6. Durai Murugan:
-He works as a Senior PFE (Premier Field Engineer). He has been in the industry for about a decade and with Microsoft for the last 8+ years. Predominantly works on Database and helping customers on Database related solutions. In his current role as a SQL Server specialist, he visits Microsoft Customer’s premises, works along with them in building, supporting their solutions and businesses, help them realize the values of Microsoft services.
+### 6. Nilabja Ball:
+Nilabja is a Senior Premier Field Engineer for Microsoft Global Business Support (GBS), India. He has more than 9 years of SQL Server and BI experience. He is engaged with the customer either for proactive activities including health check, assessment and support or for reactive tasks to troubleshoot and fix complex and critical issues. He is actively involved in few SQL User Group and SQLPASS local chapters.
+
